@@ -14,6 +14,33 @@
 
 ---
 
+## 🎓 Progression Path
+
+- **Novice (1-10)**: 1-2 weeks, solve atleast 1-2 per day 
+    - [x] Planning
+    - [ ] On-Going
+    - [ ] Completed
+- **Beginner (11-20)**: 2 weeks, solve atleast 1 per day
+    - [x] Planning
+    - [ ] On-Going
+    - [ ] Completed
+- **Intermediate (21-32)**: 2-3 weeks, solve atleast 1 per day
+    - [x] Planning
+    - [ ] On-Going
+    - [ ] Completed
+- **Advanced (33-43)**: 2-3 weeks, solve atleast 1 per 1-2 days
+    - [x] Planning
+    - [ ] On-Going
+    - [ ] Completed
+- **Expert (44-52)**: 3-4 weeks, solve atleast 1 per 2 days
+    - [x] Planning
+    - [ ] On-Going
+    - [ ] Completed
+- **Master (53-60)**: 4-6 weeks, solve atleast 1 per 3-4 days
+    - [x] Planning
+    - [ ] On-Going
+    - [ ] Completed
+
 ## 🌱 NOVICE LEVEL (Focus: Basics + String/List Methods)
 
 ### 1. **Word Counter**
@@ -317,11 +344,4 @@
 
 ---
 
-## 🎓 Progression Path
 
-- **Novice (1-10)**: 1-2 weeks, solve atleast 1-2 per day
-- **Beginner (11-20)**: 2 weeks, solve atleast 1 per day
-- **Intermediate (21-32)**: 2-3 weeks, solve atleast 1 per day
-- **Advanced (33-43)**: 2-3 weeks, solve atleast 1 per 1-2 days
-- **Expert (44-52)**: 3-4 weeks, solve atleast 1 per 2 days
-- **Master (53-60)**: 4-6 weeks, solve atleast 1 per 3-4 days
