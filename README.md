@@ -317,48 +317,11 @@
 
 ---
 
-## 📝 Practice Tips
-
-1. **Start from Novice** - Don't skip levels even if they seem easy
-2. **Don't look at solutions immediately** - Struggle is part of learning
-3. **Refactor your code** - After solving, try to make it better
-4. **Combine topics** - Try using multiple concepts in one problem
-5. **Time yourself** - Track how long each problem takes
-6. **Create variations** - Once you solve one, add more features
-7. **Comment your code** - Explain your thinking process
-8. **Handle edge cases** - Think about what could go wrong
-
 ## 🎓 Progression Path
 
-- **Novice (1-10)**: 1-2 weeks, solve 1-2 per day
-- **Beginner (11-20)**: 2 weeks, solve 1 per day
-- **Intermediate (21-32)**: 2-3 weeks, solve 1 per day
-- **Advanced (33-43)**: 2-3 weeks, solve 1 per 1-2 days
-- **Expert (44-52)**: 3-4 weeks, solve 1 per 2 days
-- **Master (53-60)**: 4-6 weeks, solve 1 per 3-4 days
-
----
-
-## ✅ Tracking Your Progress
-
-Create a checklist in your README:
-
-```markdown
-## My Progress
-
-### 🌱 Novice (0/10)
-- [ ] 1. Word Counter
-- [ ] 2. Email Validator
-- [ ] 3. Shopping List Manager
-...
-
-### 🌿 Beginner (0/10)
-- [ ] 11. Grade Calculator
-...
-```
-
----
-
-**Total: 60 Problems | Estimated Time: 3-4 months**
-
-Good luck on your journey from Novice to Master! 🚀🔮
+- **Novice (1-10)**: 1-2 weeks, solve atleast 1-2 per day
+- **Beginner (11-20)**: 2 weeks, solve atleast 1 per day
+- **Intermediate (21-32)**: 2-3 weeks, solve atleast 1 per day
+- **Advanced (33-43)**: 2-3 weeks, solve atleast 1 per 1-2 days
+- **Expert (44-52)**: 3-4 weeks, solve atleast 1 per 2 days
+- **Master (53-60)**: 4-6 weeks, solve atleast 1 per 3-4 days
