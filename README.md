@@ -47,7 +47,7 @@
 ### 1. **Word Counter**
 - Input: A sentence
 - Output: Count how many words, vowels, and consonants
-- Topics: String methods (`.split()`, `.lower() / .casefold()`, `.count()`, `.isalpha()`, `len()`)
+- Topics: String methods (`.split()`, `.lower() / .casefold()`, `.join()`,`.isalpha()`, `len()`)
 
 ### 2. **Email Validator**
 - Check if an email is valid (has @ and .)
