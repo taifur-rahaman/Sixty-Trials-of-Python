@@ -17,8 +17,8 @@
 ## 🎓 Progression Path
 
 - **Novice (1-10)**: 1-2 weeks, solve atleast 1-2 per day 
-    - [x] Planning
-    - [ ] On-Going
+    - [ ] Planning
+    - [x] On-Going
     - [ ] Completed
 - **Beginner (11-20)**: 2 weeks, solve atleast 1 per day
     - [x] Planning

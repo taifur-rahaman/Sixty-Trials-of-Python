@@ -4,7 +4,7 @@ class Processor:
         self._string = string
     
     def count_words(self):
-        return len(self._string.split(" "))
+        return len(self._string.split())
     
     def count_vowels(self):
         count = 0
@@ -15,7 +15,7 @@ class Processor:
     
     def _count_letters(self):
         count = 0
-        combine_string = ("").join(self._string.split(" "))
+        combine_string = ("").join(self._string.split())
         for char in combine_string:
             if char.isalpha():
                 count += 1
