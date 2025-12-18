@@ -10,9 +10,3 @@ class Validator:
             return True
         else:
             return False
-
-
-# NOTE: Test Code
-if __name__ == "__main__":
-    validator = Validator("zD@ASDdsd")
-    validator.is_valid()
