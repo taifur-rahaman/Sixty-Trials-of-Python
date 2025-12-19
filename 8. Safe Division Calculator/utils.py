@@ -13,11 +13,8 @@ def usr_input():
     elif int(qty) < 0:
         raise ValueError("Quantity cannot be negative.")
     for i in range(int(qty)):
-        num = input(f"Enter number {i+1}: ")
-        if not num.isnumeric():
-            raise ValueError("Number must be a number.")
-        else:
-            numbers.append(int(num))
+        num = float(input(f"Enter number {i+1}: "))
+        numbers.append(float(num))
     return numbers
 
 def exception_handler(string):
