@@ -4,22 +4,22 @@ class Operation:
         pass
 
     @staticmethod
-    def add(*args):
+    def addition(*args):
         if len(args) < 2:
             raise ValueError("Calculation requires at least 2 numbers.")
         return sum(args)
 
     @staticmethod
-    def sub(*args):
+    def subtraction(*args):
         sub = args[0]
         if len(args) < 2:
             raise ValueError("Calculation requires at least 2 numbers.")
-        for arg in args:
+        for arg in args[1:]:
             sub -= arg
         return sub
 
     @staticmethod
-    def mul(*args):
+    def multiplication(*args):
         mul = 1
         if len(args) < 2:
             raise ValueError("Calculation requires at least 2 numbers.")
@@ -30,7 +30,7 @@ class Operation:
         return mul
 
     @staticmethod
-    def div(*args):
+    def division(*args):
         div = args[0]
         if len(args) < 2:
             raise ValueError("Calculation requires at least 2 numbers.")
@@ -40,11 +40,3 @@ class Operation:
             for arg in args[1:]:
                 div /= arg
             return div
-
-# NOTE: Test Code
-if __name__ == "__main__":
-    operation = Operation()
-    print(operation.add(1, 2, 3, 4, 5))
-    print(operation.sub(10, 2, 3))
-    print(operation.mul(1, 2, 3, 4, 5))
-    print(operation.div(6, 2))

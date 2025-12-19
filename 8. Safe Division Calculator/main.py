@@ -1,27 +1,21 @@
+import utils
 
-from calculator import Operation
+numbers = []
+result = 0
 
-def beautify(string):
-    print("="*40)
-    print(string.center(40))
-    print("="*40)
-
-beautify("Calculator")
-
-operation = Operation()
 while True:
-    choice = input("\n\n1. Addition\n2. Subtraction\n3. Multiplication\n4. "
-                   "Division\n0. Exit\nEnter Your Choice: ")
-    
+    utils.beautify("calculator".title())
+    choice = input("\n\n1. Addition\n2. Subtraction\n3. Multiplication\n4. Division\n0. Exit\nEnter Your Choice: ")
+
     match choice:
         case "1":
-            beautify("Addition")
+            print(f"\n\nResult: {utils.exception_handler("addition")}")
         case "2":
-            pass
+            print(f"\n\nResult: {utils.exception_handler("subtraction")}")
         case "3":
-            pass
+            print(f"\n\nResult: {utils.exception_handler("multiplication")}")
         case "4":
-            pass
+            print(f"\n\nResult: {utils.exception_handler("division")}")
         case "0":
             print("Exiting the program. GoodBye!!!")
             exit()
