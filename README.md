@@ -18,11 +18,11 @@
 
 - **Novice (1-10)**: 1-2 weeks, solve atleast 1-2 per day 
     - [ ] Planning
-    - [x] On-Going
-    - [ ] Completed
-- **Beginner (11-20)**: 2 weeks, solve atleast 1 per day
-    - [x] Planning
     - [ ] On-Going
+    - [x] Completed
+- **Beginner (11-20)**: 2 weeks, solve atleast 1 per day
+    - [ ] Planning
+    - [x] On-Going
     - [ ] Completed
 - **Intermediate (21-32)**: 2-3 weeks, solve atleast 1 per day
     - [x] Planning
